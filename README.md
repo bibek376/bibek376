@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Rawat</h1>
-<h3 align="center">A Passionate Tech. Developer From Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek376&label=Profile%20views&color=0e75b6&style=flat" alt="bibek376" /> </p>
+<h3 align="center">A passionate tech. developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Data science and Machine Learning**
 
