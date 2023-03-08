@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibek Rawat</h1>
 <h3 align="center">A passionate tech. developer from Nepal</h3>
 
-- 🔭 I’m currently working on **PostgreSQL and Deep Learning**
+- 🔭 I’m currently working on *Data Engineering and *PostgreSQL**
 
 - 🌱 I’m currently learning **Different Types of Algorithm**
 
