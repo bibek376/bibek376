@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **cu.18bcs6728@gmail.com**
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bibek-rawat-51b1b81b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek-rawat-51b1b81b8" height="30" width="40" /></a>
