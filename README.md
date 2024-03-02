@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bibek Rawat</h1>
 <h3 align="center">A passionate tech. developer from Nepal</h3>
 
-- 🔭 I’m currently working on *Data Engineering and *PostgreSQL**
+- 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Different Types of Algorithm**
+- 🌱 I’m currently learning **Data Engineering and Databases**
 
-- 👯 I’m looking to collaborate on **Deep Learning Related Project**
+- 👯 I’m looking to collaborate on **Data Engineering Related Project**
 
-- 💬 Ask me about **Data Structure , Data Science,SQL**
+- 💬 Ask me about **Database, Data Engineering, Python, Data Structure, Data Science**
 
 - 📫 How to reach me **cu.18bcs6728@gmail.com**
 
