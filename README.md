@@ -4,8 +4,6 @@
 🔹 Passionate about building **scalable data solutions** and optimizing **ETL pipelines**  
 🔹 Currently working with **Airflow, Snowflake, AWS, SQL, and Python**  
 🔹 Always learning and exploring **Data Engineering, Databases, and Big Data Technologies**  
-- 📫 How to reach me **cu.18bcs6728@gmail.com**
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -53,3 +51,10 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek376&" alt="bibek376" />
 </p>
+
+### 💡 Let's Connect & Collaborate!  
+- 👯 Open to collaborating on **Data Engineering and ETL projects**  
+- 💬 Ask me about **Databases, Data Engineering, Python, Data Structures, and Data Science**  
+- 📫 Reach me at **cu.18bcs6728@gmail.com**  
+- 🌍 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bibek-rawat)**
+- 
