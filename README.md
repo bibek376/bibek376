@@ -1,11 +1,11 @@
-# Hi 👋, I'm Bibek Rawat
+## Hi 👋, I'm Bibek Rawat
 ## 🚀 Data Engineer | Tech Enthusiast | Problem Solver
 
-🔹 Passionate about building **scalable data solutions** and optimizing **ETL pipelines**  
-🔹 Currently working with **Airflow, Snowflake, AWS, SQL, and Python**  
-🔹 Always learning and exploring **Data Engineering, Databases, and Big Data Technologies**  
+⚡Passionate about building **scalable data solutions** and optimizing **ETL pipelines**  
+⚡Currently working with **Airflow, Snowflake, AWS, SQL, and Python**  
+⚡Always learning and exploring **Data Engineering, Databases, and Big Data Technologies**  
 ---
-### 💡 Let's Connect & Collaborate!  
+## 💡 Let's Connect & Collaborate!  
 - 👯 Open to collaborating on **Data Engineering and ETL projects**  
 - 💬 Ask me about **Databases, Data Engineering, Python, Airflow, and Data Science**  
 - 📫 Reach me at **cu.18bcs6728@gmail.com**  
