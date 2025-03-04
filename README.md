@@ -5,6 +5,10 @@
 🔹 Currently working with **Airflow, Snowflake, AWS, SQL, and Python**  
 🔹 Always learning and exploring **Data Engineering, Databases, and Big Data Technologies**  
 ---
+### 💡 Let's Connect & Collaborate!  
+- 👯 Open to collaborating on **Data Engineering and ETL projects**  
+- 💬 Ask me about **Databases, Data Engineering, Python, Airflow, and Data Science**  
+- 📫 Reach me at **cu.18bcs6728@gmail.com**  
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -50,11 +54,4 @@
 <p>&nbsp;</p>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek376&" alt="bibek376" />
-</p>
 
-### 💡 Let's Connect & Collaborate!  
-- 👯 Open to collaborating on **Data Engineering and ETL projects**  
-- 💬 Ask me about **Databases, Data Engineering, Python, Data Structures, and Data Science**  
-- 📫 Reach me at **cu.18bcs6728@gmail.com**  
-- 🌍 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bibek-rawat)**
-- 
