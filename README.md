@@ -1,10 +1,9 @@
 # Hi 👋, I'm Bibek Rawat
-## A passionate tech developer from Nepal
+## 🚀 Data Engineer | Tech Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on **Data Engineering**
-- 🌱 I’m currently learning **Data Engineering and Databases**
-- 👯 I’m looking to collaborate on **Data Engineering Related Project**
-- 💬 Ask me about **Database, Data Engineering, Python, Data Structure, Data Science**
+🔹 Passionate about building **scalable data solutions** and optimizing **ETL pipelines**  
+🔹 Currently working with **Airflow, Snowflake, AWS, SQL, and Python**  
+🔹 Always learning and exploring **Data Engineering, Databases, and Big Data Technologies**  
 - 📫 How to reach me **cu.18bcs6728@gmail.com**
 
 ---
